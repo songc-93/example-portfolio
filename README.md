@@ -1,4 +1,4 @@
-# Example blog: Business Data
+# Business & Data (example blog)
 
 ### Work Experience
 Senior Consultant, Supply Chain & Operations
