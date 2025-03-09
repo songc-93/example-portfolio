@@ -14,7 +14,3 @@ Senior Consultant, Data Science & Business Intelligence
 
 ### Projects
 
-
-
-# example-portfolio
-csong.github.io/example-portfolio
