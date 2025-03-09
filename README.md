@@ -1,4 +1,4 @@
-# Business & Data (example blog)
+# Example portfolio
 
 ### Work Experience
 Senior Consultant, Supply Chain & Operations
